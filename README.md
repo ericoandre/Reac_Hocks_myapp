@@ -1,1 +1,7 @@
-# Reac_Hocks_myapp
+# Reac Hocks myapp
+
+### `yarn`
+
+### `yarn start`
+
+### `yarn build`
